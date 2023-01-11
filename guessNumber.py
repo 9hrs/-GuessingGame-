@@ -15,7 +15,7 @@ def guess(x):
 
     print(f"\033[91m Congratulations you have guessed the correct number ! ---> {random_number}")
 
-    #computer gusses your number 
+#computer gusses your number 
 
 def computer_guess(x):
     low = 1
